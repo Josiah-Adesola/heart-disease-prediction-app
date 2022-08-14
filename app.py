@@ -107,7 +107,7 @@ def main():
     cp = st.selectbox("Chest Pain type", ['Typical angina', 'Atypical angina', 'Non-angina', 'Asymptomatic'])
     trestbps = st.number_input("Resting Blood Pressure (mm/Hg)", min_value=90, max_value=300, value=90)
     chol = st.number_input("Serum Cholesterol in mg/dl", min_value=100, max_value=650, value=150)
-    fbs = st.selectbox("Fastig Blood Sugar", ["True", "False"])
+    fbs = st.selectbox("Fasting Blood Sugar", ["True", "False"])
     st.caption("Is it greater than 120mg/dl")
     restecg = st.selectbox("Resting Electrocardiographic Results", ["Normal","Stt abnormality","Iv hypertrophy"])
     thalach = st.number_input("Maximum heart rate achieved", min_value=50, max_value=250, value=60)
@@ -126,7 +126,7 @@ def main():
         diagnosis = heart_prediction(age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal)
 
         if (diagnosis[0] == 0):
-            st.success("Congratulations!!!,there's no heart disease")
+            st.success("Congratulations!!!, there's no heart disease")
         elif (diagnosis[0] == 1):
             st.warning("Sorry! there is an heart disease")
 
