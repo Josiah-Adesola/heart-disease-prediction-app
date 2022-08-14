@@ -58,12 +58,31 @@ https://bit.ly/heart-disease-predictor-app
 
 ![WhatsApp Image 2022-08-14 at 6 44 54 PM](https://user-images.githubusercontent.com/59745353/184548733-da1977d7-0bdd-4dba-8f11-18a63b690c19.jpeg)
 
+
 ![WhatsApp Image 2022-08-14 at 6 44 15 PM](https://user-images.githubusercontent.com/59745353/184548734-2b3a6f08-ee28-4507-afeb-04795009198a.jpeg)
 
+
 The  web app is simple to use, you can easily not fill anything and just click the predict button at the button. Then it predicts if the person has an heart disease or not.
+
+
 ![WhatsApp Image 2022-08-14 at 6 45 07 PM](https://user-images.githubusercontent.com/59745353/184548732-c936babb-6eb4-414d-ba5d-dcfffce7abbb.jpeg)
+
+
 
 Click the link to use the app!
 
 https://bit.ly/heart-disease-predictor-app
 
+-----------------------------------------
+
+# DEPLOYMENT
+
+* https://archive.ics.uci.edu/ml/datasets/heart+disease
+
+* https://www.sciencedirect.com/science/article/abs/pii/0002870386902656
+
+* https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data
+
+Thank you!
+
+Feel free to use the codes!
