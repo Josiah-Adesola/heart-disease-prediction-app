@@ -22,6 +22,8 @@ The most important behavioural risk factors of heart disease and stroke are unhe
 However,identifying those at highest risk of CVDs and ensuring they receive appropriate treatment can prevent premature deaths. 
 
 Culled from : WHO website.
+
+
 This means prediction can be an effective tool in combating premature death from CVD.
 
 
