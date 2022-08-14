@@ -9,7 +9,7 @@ import streamlit as st
 #loading the saved model
 
 
-loaded_model = pickle.load(open("C:/Users/User/Machine Learning/Projects/Heart Disease Prediction/trained_model.sav", 'rb'))
+loaded_model = pickle.load(open("trained_model.sav", 'rb'))
 
 documentation_data = "https://archive.ics.uci.edu/ml/datasets/heart+disease"
 
